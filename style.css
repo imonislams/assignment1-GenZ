@@ -1,0 +1,147 @@
+banner{
+    margin-left: 100px;
+    position: static;
+   
+    border: 10px 30px ;
+    padding: 20px; 
+    background-color: #C6E4D6;
+    border-radius: 24px;
+   /* border-right-width: 50px;  */
+   width: 80%;
+   margin-left: 130px;
+    
+
+    
+    
+  
+   
+
+}
+
+h3{
+    color: rgba(14, 14, 14, 0.5);
+    position: static;
+    width: 622px;
+    height: 29px;
+    margin-left: 59.99px;
+    }
+
+
+    
+h1{
+    color: #0E0E0E;
+    
+    font-size: 56px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
+   margin-left: 59.99px;
+    
+
+}
+.bt{
+    
+    padding: 17px 34px 17px 34px;
+    color: white;
+    background-color: #006A50;
+    justify-content: center;
+     align-items: center;
+     border-radius: 10px;
+     gap: 48;
+     margin-left: 59.99px;
+     border: none;    
+}
+.bt:hover{
+    background-color: rgb(228, 60, 22); 
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+.heroo{
+position: absolute;
+width: 474.03px;
+height: 329.21px;
+left: 745.99px;
+right: -157.37%;
+top: 5%;
+bottom: -2.3%;
+
+    
+  
+}
+bangladesh2{
+    position: static;
+    width: 1280px;
+    height: 48px;
+}
+.piller-box{
+    display: flex;
+    gap: 24px;
+   
+    padding: 24px;
+    
+    
+}
+.piller{
+    padding: 30px;
+    
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+}
+main section{
+    margin-left: 130px;
+}
+.green{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.b1{
+    background-color: rgb(84, 144, 245);
+    position: static;
+    width: 122px;
+    height: 41px;
+    color: azure;
+    font-weight: bold;
+    border: none;
+}
+.b1:hover{
+    background-color: rgb(183, 11, 183);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+.sobuj{
+    background-color: 
+    rgb(198, 228, 214);
+}
+.b2{
+    background-color: rgb(9, 161, 92);
+    position: static;
+    width: 122px;
+    height: 41px;
+    color: azure;
+    font-weight: bold;
+    border: none;
+}
+b2:hover{
+    background-color: rgb(0, 217, 255);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+.yellow{
+    background-color: rgb(247, 235, 207);
+}
+.b3{
+    background-color: 
+    rgb(255, 194, 57);
+    position: static;
+    width: 122px;
+    height: 41px;
+    color: azure;
+    font-weight: bold;
+    border: none;
+}
+.b3:hover{
+    background-color: rgba(19, 22, 223, 0.237);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
